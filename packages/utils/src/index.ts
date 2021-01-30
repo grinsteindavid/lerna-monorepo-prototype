@@ -1,5 +1,9 @@
 import { HelloWorld } from "@monorepo/types";
 
 export function message(): HelloWorld {
-    return;
+    const response: HelloWorld = {
+        message: 'hello world!'
+    };
+
+    return response;
 }
