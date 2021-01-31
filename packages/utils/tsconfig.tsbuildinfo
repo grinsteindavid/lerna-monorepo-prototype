@@ -217,7 +217,7 @@
         "affectsGlobalScope": false
       },
       "./src/index.ts": {
-        "version": "34a995ee4b66f06c38494336d31cabe3e37d2c615e840e355653670903dd1a8e",
+        "version": "d8da84d9d1990104638f2c100119435423779892db3d6badf620b633b8498a5d",
         "signature": "ed0b78ab0161033ec18556391fd1bf6c8cd863b858d480b70990804effbb667d",
         "affectsGlobalScope": false
       },
@@ -485,7 +485,6 @@
       ],
       "declaration": true,
       "declarationMap": true,
-      "emitDeclarationOnly": true,
       "composite": true,
       "moduleResolution": 2,
       "esModuleInterop": true,
@@ -852,6 +851,9 @@
       ],
       "../../node_modules/@types/node/zlib.d.ts": [
         "../../node_modules/@types/node/stream.d.ts"
+      ],
+      "./src/index.ts": [
+        "../types/dist/index.d.ts"
       ]
     },
     "semanticDiagnosticsPerFile": [

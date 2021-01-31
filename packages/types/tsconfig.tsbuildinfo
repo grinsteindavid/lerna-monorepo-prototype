@@ -480,7 +480,6 @@
       ],
       "declaration": true,
       "declarationMap": true,
-      "emitDeclarationOnly": true,
       "composite": true,
       "moduleResolution": 2,
       "esModuleInterop": true,
