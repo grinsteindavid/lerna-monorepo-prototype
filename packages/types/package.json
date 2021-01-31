@@ -16,5 +16,5 @@
     "watch": "tsc -w",
     "clean": "rm -rf ./dist && rm -rf tsconfig.tsbuildinfo"
   },
-  "gitHead": "9b524f03403fcdc721601b44f77db607f3366d16"
+  "gitHead": "20b84dd772d721fee199ef3b43931943f183a03c"
 }

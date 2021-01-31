@@ -9,3 +9,5 @@ export function message(): HelloWorld {
 
     return response;
 }
+
+message()

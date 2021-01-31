@@ -217,7 +217,7 @@
         "affectsGlobalScope": false
       },
       "./src/index.ts": {
-        "version": "1024ec39430e7ca560e0ff349d6bc2183d22577dcecc4a796ed71b355802dd54",
+        "version": "b7236f54d14e2fd71f7fc6f9c3f6f0d96af2771e31b4da5c8fd908a3cf1c745c",
         "signature": "ed0b78ab0161033ec18556391fd1bf6c8cd863b858d480b70990804effbb667d",
         "affectsGlobalScope": false
       },
@@ -479,7 +479,7 @@
     },
     "options": {
       "target": 99,
-      "module": 99,
+      "module": 1,
       "lib": [
         "lib.esnext.d.ts"
       ],
@@ -852,9 +852,6 @@
       ],
       "../../node_modules/@types/node/zlib.d.ts": [
         "../../node_modules/@types/node/stream.d.ts"
-      ],
-      "./src/index.ts": [
-        "../types/dist/index.d.ts"
       ]
     },
     "semanticDiagnosticsPerFile": [
