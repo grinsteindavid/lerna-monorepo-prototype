@@ -1,6 +1,6 @@
 {
   "name": "@monorepo/utils",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "dist/index",
   "types": "dist/index",
   "files": [
@@ -12,7 +12,7 @@
     "typescript": "^4.1.3"
   },
   "dependencies": {
-    "@monorepo/types": "^1.0.2"
+    "@monorepo/types": "^1.0.3"
   },
   "scripts": {
     "build": "tsc -b .",
