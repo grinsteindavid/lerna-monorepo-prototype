@@ -12,7 +12,7 @@
   },
   "scripts": {
     "postinstall": "husky install",
-    "test": "echo 'testing'"
+    "test": "echo 'testing hooks'"
   },
   "husky": {
     "hooks": {
