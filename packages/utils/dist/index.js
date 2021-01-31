@@ -6,3 +6,4 @@ export function message() {
     console.log(num);
     return response;
 }
+//# sourceMappingURL=index.js.map

@@ -14,5 +14,10 @@
         "isolatedModules": true,
         "skipLibCheck": true,
         "resolveJsonModule": true
+    },
+    "paths": {
+        "@monorepo/*": [
+            "packages/*/src"
+        ]
     }
 }

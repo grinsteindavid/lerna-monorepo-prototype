@@ -480,6 +480,7 @@
       ],
       "declaration": true,
       "declarationMap": true,
+      "sourceMap": true,
       "composite": true,
       "moduleResolution": 2,
       "esModuleInterop": true,
@@ -489,7 +490,6 @@
       "rootDir": "./src",
       "baseUrl": "./",
       "outDir": "./dist",
-      "watch": true,
       "configFilePath": "./tsconfig.json"
     },
     "referencedMap": {
