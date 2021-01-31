@@ -212,8 +212,8 @@
         "affectsGlobalScope": true
       },
       "./src/index.ts": {
-        "version": "76288c93aa005b1967830dc68f60218b5f25780564438d589628d86d833dd504",
-        "signature": "1f782d852e3be073f0699e062572b67f9e0b99db7d65b3c5c90a209a06dd5b53",
+        "version": "8dce8086afd6023d92fc2b2c2701ce7cc948af1a9305ef09dd838e78b09d3161",
+        "signature": "aa0a9c455ccba9ecbb83b378752eee1c6195b654b628e3883af77bcb5f204f95",
         "affectsGlobalScope": false
       },
       "../../node_modules/@types/node/globals.d.ts": {
@@ -489,6 +489,7 @@
       "rootDir": "./src",
       "baseUrl": "./",
       "outDir": "./dist",
+      "watch": true,
       "configFilePath": "./tsconfig.json"
     },
     "referencedMap": {

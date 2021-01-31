@@ -7,6 +7,15 @@
     "packages/*"
   ],
   "devDependencies": {
+    "husky": "^5.0.8",
     "lerna": "^3.22.1"
+  },
+  "scripts": {
+    "postinstall": "husky install"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "echo 'pre-commit'"
+    }
   }
 }
